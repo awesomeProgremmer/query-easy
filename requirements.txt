@@ -1,0 +1,11 @@
+python-dotenv
+langchain==0.3.25
+langchain-community==0.3.23
+langchain-core==0.3.85
+langchain-text-splitters==0.3.8
+langchain-groq
+faiss-cpu
+sentence-transformers
+pydantic
+numpy
+pypdf
